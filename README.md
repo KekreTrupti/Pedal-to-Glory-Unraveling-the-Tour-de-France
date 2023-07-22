@@ -10,7 +10,7 @@ As a Data Visualization Expert at the Amaury Sport Organization, my goal is to p
 Power BI
 
 ## Data Model created:
-<p align="center"><img src="DataModel_tour_de_france-Power BI Desktop.png"></p>
+<p align="center"><img src="DataModel_tour_de_france - Power BI Desktop.png"></p>
 
 ## Dashboard:
 <p align="center"><img src="tour_de_france_Power BI.png"></p>
