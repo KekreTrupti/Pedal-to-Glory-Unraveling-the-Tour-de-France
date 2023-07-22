@@ -15,10 +15,10 @@ Power BI
 ## Dashboard:
 <p align="center"><img src="tour_de_france_Power BI.png"></p>
 
-### Project entry link to Maven analytics:
+#### Project entry link to Maven Analytics:
 https://mavenanalytics.io/project/7534
 
-###### Higjlights of the Power BI Dashboard:
+#### Highlights of the Power BI Dashboard:
 <ol>
   <li>"Synopsis of the Tour by the Year":  Shows winner, starters, finishers, stages, and distance for each  selected year (1903-2022). </li>
   <li> "Synopsis by Winner":  Displays data specific to the selected winner(s). </li>
